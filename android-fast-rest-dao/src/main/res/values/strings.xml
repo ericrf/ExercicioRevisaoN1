@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fast Rest Dao</string>
+    <string name="server_url">http://yoururl/</string>
+</resources>
