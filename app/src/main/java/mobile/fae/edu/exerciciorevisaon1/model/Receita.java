@@ -1,5 +1,7 @@
 package mobile.fae.edu.exerciciorevisaon1.model;
 
+import com.fasterxml.jackson.annotation.JsonRootName;
+
 import java.io.Serializable;
 
 /**
